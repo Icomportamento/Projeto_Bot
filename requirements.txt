@@ -1,0 +1,9 @@
+Flask
+slack-sdk
+openai
+faiss-cpu
+pdfplumber
+requests
+python-dotenv
+numpy
+
